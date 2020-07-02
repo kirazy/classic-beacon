@@ -1,0 +1,13 @@
+{
+  "name": "classic-beacon",
+  "version": "0.18.1",
+  "factorio_version": "0.18",
+  "title": "Classic Beacon",
+  "author": "Kirazy",
+  "contact": "kirazy@live.com",
+  "description": "Replaces the new beacon from 0.18.32 with the classic beacon; includes an option to use upscaled high-res sprites.",
+  "dependencies": 
+  [	
+    "base >= 0.18.32"
+  ]
+}
