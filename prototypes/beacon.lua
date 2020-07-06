@@ -134,6 +134,3 @@ beacon.water_reflection = {
     rotate = false,
     orientation_to_variation = false
 }
-
--- Hide the integration patch
-beacon.integration_patch = util.empty_sprite()
