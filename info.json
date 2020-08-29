@@ -5,7 +5,7 @@
   "title": "Classic Beacon",
   "author": "Kirazy",
   "contact": "kirazy@live.com",
-  "description": "Replaces the new beacon from 0.18.32 with the classic beacon; includes an option to use upscaled high-res sprites.",
+  "description": "Restores the classic beacon. Includes an option to use upscaled high-res sprites.",
   "dependencies":
   [
     "base >= 1.0.0"
