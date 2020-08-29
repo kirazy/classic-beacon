@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020.08.28
+  Features:
+    - Moved to Factorio 1.0
+    - Restores the classic technology icon for Effect Transmission
+  Bugfixes:
+    - Fixed that several variables were declared globally instead of locally
+---------------------------------------------------------------------------------------------------
 Version: 0.18.1
 Date: 2020.07.01
   Features:

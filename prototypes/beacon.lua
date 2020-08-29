@@ -1,16 +1,22 @@
 -- Copyright (c) 2020 Kirazy
 -- Part of Classic Beacon
---     
+--
 -- See LICENSE.md in the project directory for license information.
 
+-- Technology icon
+local beacon_technology = data.raw.technology["effect-transmission"]
+beacon_technology.icon = "__classic-beacon__/graphics/technology/effect-transmission.png"
+beacon_technology.icon_size = 128
+beacon_technology.icon_mipmaps = nil
+
 -- Item icon
-beacon_item = data.raw["item"]["beacon"]
+local beacon_item = data.raw["item"]["beacon"]
 beacon_item.icon = "__classic-beacon__/graphics/icon/beacon.png"
 beacon_item.icon_size = 64
 beacon_item.icon_mipmaps = 4
 
 -- Entity icon
-beacon = data.raw["beacon"]["beacon"]
+local beacon = data.raw["beacon"]["beacon"]
 beacon.icon = "__classic-beacon__/graphics/icon/beacon.png"
 beacon.icon_size = 64
 beacon.icon_mipmaps = 4
