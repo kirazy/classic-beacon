@@ -4,7 +4,8 @@
   "factorio_version": "2.1",
   "title": "Classic Beacon",
   "author": "Kirazy",
-  "contact": "kirazy@live.com",
+  "contact": "https://discord.gg/qAvSyzZFPr",
+  "homepage": "https://github.com/kirazy/classic-beacon",
   "description": "Restores the classic beacon. Includes an option to use upscaled high-res sprites.",
   "dependencies": [
     "base"
