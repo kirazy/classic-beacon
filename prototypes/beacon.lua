@@ -156,7 +156,8 @@ beacon.icon_size = 64
 
 -- Restore old beacon sprites
 beacon.corpse = "medium-remnants"
-beacon.graphics_set = settings.startup["classic-beacon-do-high-res"].value == true and get_upscaled_graphics_set() or get_classic_graphics_set()
+beacon.graphics_set = settings.startup["classic-beacon-do-high-res"].value == true and get_upscaled_graphics_set()
+	or get_classic_graphics_set()
 
 beacon.water_reflection = {
 	pictures = {
